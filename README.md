@@ -1,7 +1,7 @@
 Hello!
 
 This small project is to improve some skills about Thymealeaf that I will teach my students how to aplly 
-in front to make a full project.
+in front-end project, so they can make a full project.
 
 
 * Project java with Spring Boot
